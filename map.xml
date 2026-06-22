@@ -1,0 +1,11 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+    <Item class="Workspace" referent="RBX0">
+        <Item class="Part" name="Baseplate">
+            <Properties>
+                <bool name="Anchored">true</bool>
+                <Vector3 name="Size"><X>2048</X><Y>16</Y><Z>2048</Z></Vector3>
+                <token name="Material">256</token>
+            </Properties>
+        </Item>
+    </Item>
+</roblox>
